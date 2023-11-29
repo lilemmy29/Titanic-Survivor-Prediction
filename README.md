@@ -12,7 +12,7 @@ Descriptive statistics provided insights into the distribution of numerical feat
 
 ### Preprocessing steps included:
 
-i.	Filling missing values in the 'Age' column with the median age.
+i. Dropped missing values in the 'Age' column.
 
 ii.	Converting the 'Sex' column into dummy variables for better model compatibility.
 
