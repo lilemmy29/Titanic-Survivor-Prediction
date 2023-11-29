@@ -1,6 +1,6 @@
 # Titanic-Survivor-Prediction
 ## Overview
-This project aims to analyze the Titanic dataset, available on Kaggle here. The primary objectives are to understand the dataset, perform necessary cleanup, and build a robust classification model to predict whether a passenger survives or not.
+This project aims to analyze the Titanic dataset, available on Kaggle. The primary objectives are to understand the dataset, perform necessary cleanup, and build a robust classification model to predict whether a passenger survives or not.
 
 ## Data Exploration and Preprocessing
 I began by loading the dataset and exploring its structure:
@@ -43,7 +43,7 @@ Visualized the distribution of fares for both genders and their impact on surviv
 ## Machine Learning - Classification Model
 I applied a classification model to predict survival based on various features:
 
--Selected features included 'Pclass,' 'Age,' 'SibSp,' 'Parch,' 'Fare,' 'Sex_female,' and 'Sex_male.'
+-Selected features included 'Passenger class,' 'Age,' 'Siblings and Spouce,' 'Parents and children,' 'Fare,' 'Sex_female,' and 'Sex_male.'
 
 -Split the data into training and testing sets.
 
